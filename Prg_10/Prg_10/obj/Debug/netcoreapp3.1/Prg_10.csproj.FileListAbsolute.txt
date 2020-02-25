@@ -1,0 +1,11 @@
+E:\Study\SEM6\DOTNET\Programs\Prg_10\Prg_10\bin\Debug\netcoreapp3.1\Prg_10.exe
+E:\Study\SEM6\DOTNET\Programs\Prg_10\Prg_10\bin\Debug\netcoreapp3.1\Prg_10.deps.json
+E:\Study\SEM6\DOTNET\Programs\Prg_10\Prg_10\bin\Debug\netcoreapp3.1\Prg_10.runtimeconfig.json
+E:\Study\SEM6\DOTNET\Programs\Prg_10\Prg_10\bin\Debug\netcoreapp3.1\Prg_10.runtimeconfig.dev.json
+E:\Study\SEM6\DOTNET\Programs\Prg_10\Prg_10\bin\Debug\netcoreapp3.1\Prg_10.dll
+E:\Study\SEM6\DOTNET\Programs\Prg_10\Prg_10\bin\Debug\netcoreapp3.1\Prg_10.pdb
+E:\Study\SEM6\DOTNET\Programs\Prg_10\Prg_10\obj\Debug\netcoreapp3.1\Prg_10.csprojAssemblyReference.cache
+E:\Study\SEM6\DOTNET\Programs\Prg_10\Prg_10\obj\Debug\netcoreapp3.1\Prg_10.AssemblyInfoInputs.cache
+E:\Study\SEM6\DOTNET\Programs\Prg_10\Prg_10\obj\Debug\netcoreapp3.1\Prg_10.AssemblyInfo.cs
+E:\Study\SEM6\DOTNET\Programs\Prg_10\Prg_10\obj\Debug\netcoreapp3.1\Prg_10.dll
+E:\Study\SEM6\DOTNET\Programs\Prg_10\Prg_10\obj\Debug\netcoreapp3.1\Prg_10.pdb

@@ -1,0 +1,10 @@
+E:\Study\SEM6\DOTNET\Programs\Prg_18\Prg_18\bin\Debug\netcoreapp3.1\Prg_18.exe
+E:\Study\SEM6\DOTNET\Programs\Prg_18\Prg_18\bin\Debug\netcoreapp3.1\Prg_18.deps.json
+E:\Study\SEM6\DOTNET\Programs\Prg_18\Prg_18\bin\Debug\netcoreapp3.1\Prg_18.runtimeconfig.json
+E:\Study\SEM6\DOTNET\Programs\Prg_18\Prg_18\bin\Debug\netcoreapp3.1\Prg_18.runtimeconfig.dev.json
+E:\Study\SEM6\DOTNET\Programs\Prg_18\Prg_18\bin\Debug\netcoreapp3.1\Prg_18.dll
+E:\Study\SEM6\DOTNET\Programs\Prg_18\Prg_18\bin\Debug\netcoreapp3.1\Prg_18.pdb
+E:\Study\SEM6\DOTNET\Programs\Prg_18\Prg_18\obj\Debug\netcoreapp3.1\Prg_18.AssemblyInfoInputs.cache
+E:\Study\SEM6\DOTNET\Programs\Prg_18\Prg_18\obj\Debug\netcoreapp3.1\Prg_18.AssemblyInfo.cs
+E:\Study\SEM6\DOTNET\Programs\Prg_18\Prg_18\obj\Debug\netcoreapp3.1\Prg_18.dll
+E:\Study\SEM6\DOTNET\Programs\Prg_18\Prg_18\obj\Debug\netcoreapp3.1\Prg_18.pdb

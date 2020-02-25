@@ -1,0 +1,10 @@
+E:\Study\SEM6\DOTNET\Programs\Prg_27\Prg_27\bin\Debug\netcoreapp3.1\Prg_27.exe
+E:\Study\SEM6\DOTNET\Programs\Prg_27\Prg_27\bin\Debug\netcoreapp3.1\Prg_27.deps.json
+E:\Study\SEM6\DOTNET\Programs\Prg_27\Prg_27\bin\Debug\netcoreapp3.1\Prg_27.runtimeconfig.json
+E:\Study\SEM6\DOTNET\Programs\Prg_27\Prg_27\bin\Debug\netcoreapp3.1\Prg_27.runtimeconfig.dev.json
+E:\Study\SEM6\DOTNET\Programs\Prg_27\Prg_27\bin\Debug\netcoreapp3.1\Prg_27.dll
+E:\Study\SEM6\DOTNET\Programs\Prg_27\Prg_27\bin\Debug\netcoreapp3.1\Prg_27.pdb
+E:\Study\SEM6\DOTNET\Programs\Prg_27\Prg_27\obj\Debug\netcoreapp3.1\Prg_27.AssemblyInfoInputs.cache
+E:\Study\SEM6\DOTNET\Programs\Prg_27\Prg_27\obj\Debug\netcoreapp3.1\Prg_27.AssemblyInfo.cs
+E:\Study\SEM6\DOTNET\Programs\Prg_27\Prg_27\obj\Debug\netcoreapp3.1\Prg_27.dll
+E:\Study\SEM6\DOTNET\Programs\Prg_27\Prg_27\obj\Debug\netcoreapp3.1\Prg_27.pdb

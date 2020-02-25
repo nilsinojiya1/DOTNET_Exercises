@@ -1,0 +1,10 @@
+E:\Study\SEM6\DOTNET\Programs\Prg_16\Prg_16\bin\Debug\netcoreapp3.1\Prg_16.exe
+E:\Study\SEM6\DOTNET\Programs\Prg_16\Prg_16\bin\Debug\netcoreapp3.1\Prg_16.deps.json
+E:\Study\SEM6\DOTNET\Programs\Prg_16\Prg_16\bin\Debug\netcoreapp3.1\Prg_16.runtimeconfig.json
+E:\Study\SEM6\DOTNET\Programs\Prg_16\Prg_16\bin\Debug\netcoreapp3.1\Prg_16.runtimeconfig.dev.json
+E:\Study\SEM6\DOTNET\Programs\Prg_16\Prg_16\bin\Debug\netcoreapp3.1\Prg_16.dll
+E:\Study\SEM6\DOTNET\Programs\Prg_16\Prg_16\bin\Debug\netcoreapp3.1\Prg_16.pdb
+E:\Study\SEM6\DOTNET\Programs\Prg_16\Prg_16\obj\Debug\netcoreapp3.1\Prg_16.AssemblyInfoInputs.cache
+E:\Study\SEM6\DOTNET\Programs\Prg_16\Prg_16\obj\Debug\netcoreapp3.1\Prg_16.AssemblyInfo.cs
+E:\Study\SEM6\DOTNET\Programs\Prg_16\Prg_16\obj\Debug\netcoreapp3.1\Prg_16.dll
+E:\Study\SEM6\DOTNET\Programs\Prg_16\Prg_16\obj\Debug\netcoreapp3.1\Prg_16.pdb

@@ -1,0 +1,8 @@
+E:\Study\SEM6\DOTNET\Programs\Prg_9\Prg_9\bin\Debug\Prg_9.exe.config
+E:\Study\SEM6\DOTNET\Programs\Prg_9\Prg_9\bin\Debug\Prg_9.exe
+E:\Study\SEM6\DOTNET\Programs\Prg_9\Prg_9\bin\Debug\Prg_9.pdb
+E:\Study\SEM6\DOTNET\Programs\Prg_9\Prg_9\obj\Debug\Prg_9.Form1.resources
+E:\Study\SEM6\DOTNET\Programs\Prg_9\Prg_9\obj\Debug\Prg_9.Properties.Resources.resources
+E:\Study\SEM6\DOTNET\Programs\Prg_9\Prg_9\obj\Debug\Prg_9.csproj.GenerateResource.cache
+E:\Study\SEM6\DOTNET\Programs\Prg_9\Prg_9\obj\Debug\Prg_9.exe
+E:\Study\SEM6\DOTNET\Programs\Prg_9\Prg_9\obj\Debug\Prg_9.pdb

@@ -1,0 +1,10 @@
+E:\Study\SEM6\DOTNET\Programs\Prg_20\Prg_20\bin\Debug\netcoreapp3.1\Prg_20.exe
+E:\Study\SEM6\DOTNET\Programs\Prg_20\Prg_20\bin\Debug\netcoreapp3.1\Prg_20.deps.json
+E:\Study\SEM6\DOTNET\Programs\Prg_20\Prg_20\bin\Debug\netcoreapp3.1\Prg_20.runtimeconfig.json
+E:\Study\SEM6\DOTNET\Programs\Prg_20\Prg_20\bin\Debug\netcoreapp3.1\Prg_20.runtimeconfig.dev.json
+E:\Study\SEM6\DOTNET\Programs\Prg_20\Prg_20\bin\Debug\netcoreapp3.1\Prg_20.dll
+E:\Study\SEM6\DOTNET\Programs\Prg_20\Prg_20\bin\Debug\netcoreapp3.1\Prg_20.pdb
+E:\Study\SEM6\DOTNET\Programs\Prg_20\Prg_20\obj\Debug\netcoreapp3.1\Prg_20.AssemblyInfoInputs.cache
+E:\Study\SEM6\DOTNET\Programs\Prg_20\Prg_20\obj\Debug\netcoreapp3.1\Prg_20.AssemblyInfo.cs
+E:\Study\SEM6\DOTNET\Programs\Prg_20\Prg_20\obj\Debug\netcoreapp3.1\Prg_20.dll
+E:\Study\SEM6\DOTNET\Programs\Prg_20\Prg_20\obj\Debug\netcoreapp3.1\Prg_20.pdb

@@ -1,0 +1,16 @@
+E:\Study\SEM6\DOTNET\Programs\Prg_13\Prg_13\bin\Debug\Prg_13.exe.config
+E:\Study\SEM6\DOTNET\Programs\Prg_13\Prg_13\bin\Debug\Prg_13.exe
+E:\Study\SEM6\DOTNET\Programs\Prg_13\Prg_13\bin\Debug\Prg_13.pdb
+E:\Study\SEM6\DOTNET\Programs\Prg_13\Prg_13\bin\Debug\BouncyCastle.Crypto.dll
+E:\Study\SEM6\DOTNET\Programs\Prg_13\Prg_13\bin\Debug\Google.Protobuf.dll
+E:\Study\SEM6\DOTNET\Programs\Prg_13\Prg_13\bin\Debug\MySql.Data.dll
+E:\Study\SEM6\DOTNET\Programs\Prg_13\Prg_13\bin\Debug\Renci.SshNet.dll
+E:\Study\SEM6\DOTNET\Programs\Prg_13\Prg_13\bin\Debug\Ubiety.Dns.Core.dll
+E:\Study\SEM6\DOTNET\Programs\Prg_13\Prg_13\bin\Debug\MySql.Data.xml
+E:\Study\SEM6\DOTNET\Programs\Prg_13\Prg_13\obj\Debug\Prg_13.csprojAssemblyReference.cache
+E:\Study\SEM6\DOTNET\Programs\Prg_13\Prg_13\obj\Debug\Prg_13.Form1.resources
+E:\Study\SEM6\DOTNET\Programs\Prg_13\Prg_13\obj\Debug\Prg_13.Properties.Resources.resources
+E:\Study\SEM6\DOTNET\Programs\Prg_13\Prg_13\obj\Debug\Prg_13.csproj.GenerateResource.cache
+E:\Study\SEM6\DOTNET\Programs\Prg_13\Prg_13\obj\Debug\Prg_13.csproj.CopyComplete
+E:\Study\SEM6\DOTNET\Programs\Prg_13\Prg_13\obj\Debug\Prg_13.exe
+E:\Study\SEM6\DOTNET\Programs\Prg_13\Prg_13\obj\Debug\Prg_13.pdb
