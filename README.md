@@ -56,7 +56,7 @@ pattern.
 
 (refer solution no. 7) 21. Write a C# code to bind data to DataGrid for the given table. Table: Product ( ItemId , ItemName, Quantity, Itemrate , Amount).
 
-22. Write a C# code to insert data into sql server database for the given table. Table: Product ( ItemId , ItemName, Quantity, Itemrate 
+#22. Write a C# code to insert data into sql server database for the given table. Table: Product ( ItemId , ItemName, Quantity, Itemrate 
 , Amount).
 
 #23. Write a C# program which creates windows form with two List Boxes listBox1, listBox2, and button named Transfer. When button is clicked it should transfer all items from listBox1 to listBox2.
@@ -70,3 +70,5 @@ pattern.
 27. Write a console application to Perform Celsius to Fahrenheit Conversion and Fahrenheit to Celsius conversion.
 
 28. Create C# .Net console application to accept 10 numbers from user and find its average. Also handle IndexOutOfRangeException
+
+#*remaining for implementation
