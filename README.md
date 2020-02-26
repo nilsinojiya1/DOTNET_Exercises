@@ -59,7 +59,7 @@ pattern.
 #22. Write a C# code to insert data into sql server database for the given table. Table: Product ( ItemId , ItemName, Quantity, Itemrate 
 , Amount).
 
-#23. Write a C# program which creates windows form with two List Boxes listBox1, listBox2, and button named Transfer. When button is clicked it should transfer all items from listBox1 to listBox2.
+23. Write a C# program which creates windows form with two List Boxes listBox1, listBox2, and button named Transfer. When button is clicked it should transfer all items from listBox1 to listBox2.
 
 (refer solution no. 5) 24. Write a Windows Form Program to display “Welcome to GTU” in message box when you click on a button.
 
