@@ -1,0 +1,9 @@
+E:\Study\SEM6\DOTNET\Programs\Prg_23\Prg_23\bin\Debug\Prg_23.exe.config
+E:\Study\SEM6\DOTNET\Programs\Prg_23\Prg_23\bin\Debug\Prg_23.exe
+E:\Study\SEM6\DOTNET\Programs\Prg_23\Prg_23\bin\Debug\Prg_23.pdb
+E:\Study\SEM6\DOTNET\Programs\Prg_23\Prg_23\obj\Debug\Prg_23.csprojAssemblyReference.cache
+E:\Study\SEM6\DOTNET\Programs\Prg_23\Prg_23\obj\Debug\Prg_23.Form1.resources
+E:\Study\SEM6\DOTNET\Programs\Prg_23\Prg_23\obj\Debug\Prg_23.Properties.Resources.resources
+E:\Study\SEM6\DOTNET\Programs\Prg_23\Prg_23\obj\Debug\Prg_23.csproj.GenerateResource.cache
+E:\Study\SEM6\DOTNET\Programs\Prg_23\Prg_23\obj\Debug\Prg_23.exe
+E:\Study\SEM6\DOTNET\Programs\Prg_23\Prg_23\obj\Debug\Prg_23.pdb
