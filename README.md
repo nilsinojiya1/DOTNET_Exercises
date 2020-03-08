@@ -70,5 +70,3 @@ pattern.
 27. Write a console application to Perform Celsius to Fahrenheit Conversion and Fahrenheit to Celsius conversion.
 
 28. Create C# .Net console application to accept 10 numbers from user and find its average. Also handle IndexOutOfRangeException
-
-#*remaining for implementation
